@@ -1,3 +1,33 @@
 #EXTM3U
-#EXTINF:-1,2×2
-http://178.124.183.3:80/hls/EU9VTLDQCN/variant.m3u8
+#EXTINF:0, ANIMAL PLANET
+http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/137/index.m3u8
+#EXTINF:0, DISCOVERY CHANNEL
+http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/140/index.m3u8
+#EXTINF:0, HISTORY
+http://178.124.183.5/hls/CH_HISTORY/variant.m3u8?version=2
+#EXTINF:0, NAT GEOGRAPHIC
+http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
+#EXTINF:0, NAT GEO WILD
+http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2
+#EXTINF:0, VIASAT HISTORY
+http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8
+#EXTINF:0, VIASAT NATURE
+http://178.124.183.5/hls/BN3FTDY3T8/variant.m3u8?version=2
+#EXTINF:0, КУХНЯ ТВ 
+http://178.124.183.5/hls/EPX2UEHLPK/variant.m3u8?version=2
+#EXTINF:0, DISNEY CHANNEL
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:0, КАРУСЕЛЬ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:0, ДЕТСКИЙ МИР
+http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/543/index.m3u8
+#EXTINF:0, МУЛЬТИМАНИЯ
+http://178.124.183.5/hls/FBYQ8KG5HM/variant.m3u8?version=2
+#EXTINF:0, МУЛЬТ 
+http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/909/index.m3u8
+#EXTINF:0, МУЛЬТИМУЗЫКА
+http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/749/index.m3u8
+#EXTINF:0, МАЛЫШ 
+http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/1041/index.m3u8
+#EXTINF:0, В ГОСТЯХ У СКАЗКИ
+http://74f357d6.iptvzone.net/iptv/ZGDTRZRKZWQTY7/737/index.m3u8
