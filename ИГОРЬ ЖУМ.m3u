@@ -21,8 +21,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:0, ДЕТСКИЙ МИР
 http://aec84642.ottv.info/iptv/56V7HQZLR3M2RQ/543/index.m3u8
-#EXTINF:0, МУЛЬТИМАНИЯ
-http://178.124.183.5/hls/FBYQ8KG5HM/variant.m3u8?version=2
+#EXTINF:0,Da Vinci Kids
+http://aec84642.ottv.info/iptv/56V7HQZLR3M2RQ/1033/index.m3u8
 #EXTINF:0, МУЛЬТ 
 http://aec84642.ottv.info/iptv/56V7HQZLR3M2RQ/909/index.m3u8
 #EXTINF:0, МУЛЬТИМУЗЫКА
